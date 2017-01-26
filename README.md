@@ -1,24 +1,9 @@
-# README
+# Snippets API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails (5.0) app that produces a simple RESTful API to be consumed by a client.
 
-Things you may want to cover:
+Authentication is provided by Device and Warden and uses JSON Web Tokens (JWT).
 
-* Ruby version
+Tests are/will be written in RSpec.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I'll hopefully be following this up with a Swift Client.
